@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\bin\Debug\RemoteDesktopWF.exe.config
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\bin\Debug\RemoteDesktopWF.exe
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\bin\Debug\RemoteDesktopWF.pdb
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.Properties.Resources.resources
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.exe
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.pdb
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\bin\Debug\Renci.SshNet.dll
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.csproj.CopyComplete
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.MainWindow.resources
+C:\Users\Admin\source\repos\RemoteDesktopWF\RemoteDesktopWF\obj\Debug\RemoteDesktopWF.View.HostSet.resources
